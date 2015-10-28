@@ -8,3 +8,6 @@ creds.conf
 *.DS_Store
 *.swp
 *.out
+__pycache__
+env
+venv
